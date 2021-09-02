@@ -5,8 +5,8 @@ github.com/golang/protobuf v1.5.2 h1:ROPKBNFfQgOUMifHyP+KYbvpjbdoFNs+aK7DXlji0Tw
 github.com/golang/protobuf v1.5.2/go.mod h1:XVQd3VNwM+JqD3oG2Ue2ip4fOMUkwXdXDdiuN0vRsmY=
 github.com/golocron/daemon v0.0.0-20191203062410-7a4ee2a1d936 h1:Xmx8d3ZHPuwX2BLTD+tqPwmxm5/6Motb6xODxhkzQtc=
 github.com/golocron/daemon v0.0.0-20191203062410-7a4ee2a1d936/go.mod h1:vCid3Dx7HRq7FMuarxBr6LWwwD3+xaBuNf5fH/cUq0I=
-github.com/golocron/rpcz v0.1.0 h1:ljF38NMj+uadWwaUqxYuzJbxoRKst4vizOX1kPZRSDs=
-github.com/golocron/rpcz v0.1.0/go.mod h1:ciqiEASIwieMtLDY21dOh3MlYJNb01/JdT3afIs1YVQ=
+github.com/golocron/rpcz v0.1.1 h1:TAAnxxgekluQc8G6UUDx2vfr5nzEw2d3Yv2jqsMB86s=
+github.com/golocron/rpcz v0.1.1/go.mod h1:ciqiEASIwieMtLDY21dOh3MlYJNb01/JdT3afIs1YVQ=
 github.com/google/go-cmp v0.5.5 h1:Khx7svrCpmxxtHBq5j2mp/xVjsi8hQMfNLvJFAlrGgU=
 github.com/google/go-cmp v0.5.5/go.mod h1:v8dTdLbMG2kIc/vJvl+f65V22dbkXbowE6jgT/gNBxE=
 github.com/pkg/errors v0.8.1 h1:iURUrRGxPUNPdy5/HRSm+Yj6okJ6UtLINN0Q9M4+h3I=
