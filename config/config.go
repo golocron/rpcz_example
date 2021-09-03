@@ -1,4 +1,4 @@
-// package config provides a way to configure the cli app examples.
+// Package config provides a way to configure the cli app examples.
 package config
 
 import (
